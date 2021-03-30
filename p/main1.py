@@ -1,0 +1,7 @@
+print("hello world")
+print("The value of 3+5 is =",3+5)
+print("The value of 3-5 is =",3-5)
+print("The value of 3*5 is =",3*5)
+print("The value of 3/5 is =",3/5)
+print("The value of 3//5 is =",3//5)
+print("The value of 3**5 is =",3**5)
